@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/pdfbox-1.6.0.jar"/>
+	<classpathentry exported="true" kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/lucene-core-3.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-actors-1.1.3/lib/akka/akka-actor-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/lingpipe-4.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/mongo-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-actor-tests-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-http-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-remote-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-slf4j-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-stm-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-testkit-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/akka-typed-actor-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/aopalliance-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/aspectwerkz-2.2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/commons-codec-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/commons-io-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/dispatch-json_2.9.0-0.8.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/guice-all-2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/h2-lzf-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/jackson-core-asl-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/jackson-mapper-asl-1.7.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/jsr250-api-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/jsr311-api-1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/multiverse-alpha-0.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/netty-3.2.4.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/objenesis-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/protobuf-java-2.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/sjson_2.9.0-0.11.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/akka-core-1.1.3/lib/akka/slf4j-api-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/fontbox-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/jempbox-1.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/eclipse/external library/bcprov-jdk16-146.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/apache-tika-0.8-src/tika-core/target/tika-core-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/apache-tika-0.8-src/tika-bundle/target/tika-bundle-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Desktop/apache-tika-0.8-src/tika-parsers/target/tika-parsers-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/kumarish/Downloads/json_simple-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
